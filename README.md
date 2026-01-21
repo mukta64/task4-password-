@@ -1,1 +1,1 @@
-# task4-password-
+This task provided a clear understanding of how passwords are stored and protected using hashing techniques. I learned to identify different hash types, studied common password attack methods like dictionary and brute-force attacks, and analyzed why weak passwords are vulnerable. The task also highlighted the importance of strong password practices and multi-factor authentication (MFA) in securing user accounts.# task4-password-
